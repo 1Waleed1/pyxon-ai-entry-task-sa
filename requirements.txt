@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+python-docx
+chromadb==0.4.15
+sentence-transformers
+protobuf==4.24.4
+torch --index-url https://download.pytorch.org/whl/cpu
+pysqlite3-binary
